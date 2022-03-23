@@ -1,4 +1,5 @@
-# Tetris_with_Automatic_mode3
+# Tetris_with_Automatic_mode
+
 Here is my first big project in C++, which is an automatic Sudoku Solver.
 
 To use it, simply define the grid you want to solve at the beginning of the main function. I added a few "template" grids to help you do that. Then, select whether you want:
