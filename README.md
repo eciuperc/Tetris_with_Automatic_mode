@@ -1,6 +1,6 @@
 # Tetris_with_Automatic_mode
 
-Here is a tetris game I made myself using a free C++ library named SFML, with which you can create a window and display anything you want on it
+Here is a tetris game I made using a free C++ library named SFML, with which you can create a window and display anything you want on it
 
 The commands are very simple:
 - Q to go left
