@@ -1,16 +1,26 @@
 # Tetris_with_Automatic_mode
 
-Here is my first big project in C++, which is an automatic Sudoku Solver.
+Here is a tetris game I made myself using a free C++ library named SFML, with which you can create a window and display anything you want on it
 
-To use it, simply define the grid you want to solve at the beginning of the main function. I added a few "template" grids to help you do that. Then, select whether you want:
-- To calculate only one possibility, or every possibilities.
-- To display the steps of the computer's calculations, or not.
-- (Only if you choose to calculate every possibilities) To display only what is the number of solutions, or also display what these solutions are.
+The commands are very simple:
+- Q to go left
+- D to go right
+- S for soft drop (ie tetromino descends progressively)
+- SPACE for hard drop (ie tetromino descends all the field in one time)
+- E for clockwise rotation
+- Z for anti-clockwise rotation
+- C for exchanging the current tetromino with the "held" one
+- P for pause
 
+I also made an automatic mode, in which the computer can play the game endlessly. The automatic mode also has an instant mode, that places the tetrominoes at the right position directly. This mode is useful for testing the automatic mode's performances since it is much faster than the classic automatic mode.
 
-To create it, I translated in C++ code the way I proceed when I'm solving myself a Sudoku, which is the following:
-- Check if there is a line, column or box where a number can be in only one place (for example "The number 7 can be in only one place in line 4").
-- Check if there is a cell that has only one possible number.
-- If we have none of those, then we have to try several solutions. An important part of the project was to determine which solutions to try so we reduce drastically the calculation times.
+The SFML files are not provided with the github. However, you can easily install them and integrate them to your solution by following this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
+
+The textures I used come from
+- https://tetris.com/play-tetris for the background.
+- https://fr.m.wikipedia.org/wiki/Fichier:Tetrominoes_IJLO_STZ_Worlds.svg for the tetrominoes.
+I also used a few gamerules from the real tetris games, which are:
+- The Super Rotation System (SRS), for the rotation and the wall kicks. See https://tetris.fandom.com/wiki/SRS.
+- The "Frames per gridcell" (ie tetrominoes' speed) depending on the level. See https://tetris.fandom.com/wiki/Tetris_(NES,_Nintendo).
 
 If you see any bug, please don't hesitate to tell me :)
