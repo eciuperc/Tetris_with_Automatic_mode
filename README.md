@@ -31,4 +31,4 @@ If you see any bug, please don't hesitate to tell me :)
 
 One solution mode
 
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+Video_Captures/Tetris_manual_demo.mp4
