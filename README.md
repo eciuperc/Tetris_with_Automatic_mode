@@ -31,7 +31,7 @@ If you see any bug, please don't hesitate to tell me :)
 
 One solution mode
 
-<video src="Video Captures/Tetris_auto_demo.mp4" width="333" height="333">
+<video src="Video_Captures/Tetris_auto_demo.mp4" width="333" height="333">
 
 Multi-solution mode: here we calculate every solution but don't display them
 
