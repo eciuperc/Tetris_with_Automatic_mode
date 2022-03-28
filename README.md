@@ -14,7 +14,7 @@ The commands are very simple:
 
 I also made an automatic mode, in which the computer plays the game automatically and endlessly. You can find a little demo below.
 
-The SFML files are not provided with the github. However, you can install them and integrate them to your solution. If you use Visual Studio, you can simply follow this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
+The SFML files are not provided with the project. However, once you download the project, you can install them and integrate them to your solution. If you use Visual Studio, you can simply follow this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
 
 The textures I used come from
 - https://tetris.com/play-tetris for the background.
