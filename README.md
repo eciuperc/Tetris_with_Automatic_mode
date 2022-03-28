@@ -31,4 +31,4 @@ If you see any bug, please don't hesitate to tell me :)
 
 One solution mode
 
-Video_Captures/Tetris_manual_demo.mp4
+https://github.com/eciuperc/Tetris_with_Automatic_mode/blob/main/Video_Captures/Tetris_manual_demo.mp4
