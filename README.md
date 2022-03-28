@@ -31,4 +31,4 @@ If you see any bug, please don't hesitate to tell me :)
 
 One solution mode
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](Video_Captures/Tetris_auto_demo.mp4)
+https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
