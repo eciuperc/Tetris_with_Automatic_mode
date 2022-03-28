@@ -5,14 +5,14 @@ Here is a Tetris game I made using a free C++ library named SFML, which allows u
 The commands are very simple:
 - Q to go left
 - D to go right
-- S for soft drop (ie tetromino descends progressively)
-- SPACE for hard drop (ie tetromino descends all the field in one time)
+- S for soft drop (ie Tetromino descends progressively)
+- SPACE for hard drop (ie Tetromino descends all the field in one time)
 - Z for anti-clockwise rotation
 - E for clockwise rotation
-- C for exchanging the current tetromino with the "held" one
+- C for exchanging the current tetromino with the "held" Tetromino
 - P for pause
 
-I also made an automatic mode, in which the computer can play the game endlessly. The automatic mode also has an instant mode, that places the tetrominoes at the right position directly. This mode is useful for testing the automatic mode's performances since it is much faster than the classic automatic mode.
+I also made an automatic mode, in which the computer plays the game automatically and endlessly. You can find a little demo below.
 
 The SFML files are not provided with the github. However, you can install them and integrate them to your solution. If you use Visual Studio, you can simply follow this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
 
