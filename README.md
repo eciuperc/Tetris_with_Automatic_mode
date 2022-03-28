@@ -27,15 +27,11 @@ If you see any bug, please don't hesitate to tell me :)
 
 
 
-## Screenshots
+## Video captures
 
-One solution mode
-
-https://github.com/eciuperc/Tetris_with_Automatic_mode/blob/main/Video_Captures/Tetris_manual_demo.mp4
+https://user-images.githubusercontent.com/100591116/160396623-196d0432-ee22-4a06-ad58-40e0a517dca6.MOV
 
 
 
-https://user-images.githubusercontent.com/100591116/160389125-7e3795ed-e843-489e-b8e2-a847578912e6.MP4
-
-
+https://user-images.githubusercontent.com/100591116/160396678-2b497538-866a-4452-bbff-0ae05e98869b.MOV
 
