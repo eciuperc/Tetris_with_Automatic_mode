@@ -24,3 +24,19 @@ I also used a few gamerules from the real tetris games, which are:
 - The "Frames per gridcell" (ie tetrominoes' speed) depending on the level. See https://tetris.fandom.com/wiki/Tetris_(NES,_Nintendo).
 
 If you see any bug, please don't hesitate to tell me :)
+
+
+
+## Screenshots
+
+One solution mode
+
+<video src="Video Captures/Tetris_auto_demo.mp4" width="333" height="333">
+
+Multi-solution mode: here we calculate every solution but don't display them
+
+<img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="200">
+
+Displaying all the computer's steps
+
+<img src="Screenshots/Screenshot_Sudoku_2.png" width="161" height="699">
