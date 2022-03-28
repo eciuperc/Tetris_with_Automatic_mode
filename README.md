@@ -33,6 +33,9 @@ One solution mode
 
 https://github.com/eciuperc/Tetris_with_Automatic_mode/blob/main/Video_Captures/Tetris_manual_demo.mp4
 
-https://user-images.githubusercontent.com/100591116/160383395-ba08ec1e-ec01-420a-b855-671f669b3011.mp4
+
+
+https://user-images.githubusercontent.com/100591116/160389125-7e3795ed-e843-489e-b8e2-a847578912e6.MP4
+
 
 
