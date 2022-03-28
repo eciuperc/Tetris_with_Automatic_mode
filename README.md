@@ -19,6 +19,9 @@ The SFML files are not provided with the project. However, once you download the
 The textures I used come from
 - https://tetris.com/play-tetris for the background.
 - https://fr.m.wikipedia.org/wiki/Fichier:Tetrominoes_IJLO_STZ_Worlds.svg for the tetrominoes.
+
+
+
 I also used a few gamerules from the real tetris games, which are:
 - The Super Rotation System (SRS), for the rotation and the wall kicks. See https://tetris.fandom.com/wiki/SRS.
 - The "Frames per gridcell" (ie tetrominoes' speed) depending on the level. See https://tetris.fandom.com/wiki/Tetris_(NES,_Nintendo).
