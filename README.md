@@ -31,12 +31,4 @@ If you see any bug, please don't hesitate to tell me :)
 
 One solution mode
 
-<video src="Video_Captures/Tetris_auto_demo.mp4" width="333" height="333">
-
-Multi-solution mode: here we calculate every solution but don't display them
-
-<img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="200">
-
-Displaying all the computer's steps
-
-<img src="Screenshots/Screenshot_Sudoku_2.png" width="161" height="699">
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](Video_Captures/Tetris_auto_demo.mp4)
