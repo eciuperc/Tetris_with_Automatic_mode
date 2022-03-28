@@ -32,11 +32,12 @@ If you see any bug, please don't hesitate to tell me :)
 
 ## Video captures
 
-
+Demo of me playing the game.
 
 https://user-images.githubusercontent.com/100591116/160397555-9c8ac1fd-680f-49ae-9874-d353fad0104c.MOV
 
 
+Demo of the computer playing the game automatically.
 
 https://user-images.githubusercontent.com/100591116/160397583-31ae7e90-de25-40f7-9f54-d46607c3d817.MOV
 
