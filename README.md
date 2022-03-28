@@ -7,8 +7,8 @@ The commands are very simple:
 - D to go right
 - S for soft drop (ie tetromino descends progressively)
 - SPACE for hard drop (ie tetromino descends all the field in one time)
-- E for clockwise rotation
 - Z for anti-clockwise rotation
+- E for clockwise rotation
 - C for exchanging the current tetromino with the "held" one
 - P for pause
 
